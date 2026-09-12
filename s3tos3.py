@@ -5,8 +5,8 @@ client =  boto3.client('s3')
 
 client = boto3.client(
     's3',
-    aws_access_key_id='AKIA5GKC4LXCSWQW2ZVM',
-    aws_secret_access_key='NjpTrzxSQR9UoY74wGk/NPGKlH5DOtKSqnyoTFTd',
+    aws_access_key_id='XYZ',
+    aws_secret_access_key='123',
     region_name='ap-south-1'  # Replace with your bucket's region
 )
 sourcebucket = 'ainexusitnewonline'
